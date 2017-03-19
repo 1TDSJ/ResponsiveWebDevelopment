@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+
+.container {
+	width: 1270px;
+}
+
+.pf-projects {
+	width: 100%;
+	display: flex;
+	text-align: center;
+}
+
+.pf-icon-project {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.pf-icon-project figcaption {
+	text-align: center;
+}
